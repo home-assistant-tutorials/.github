@@ -1,12 +1,16 @@
-## Hi there 👋
+## Welcome
 
-<!--
+This organization has the purpose to bundle some tutorials about Home Assistant.
+Each tutorial is done as a separate github repository to be able to ship code
+alongside.
 
-**Here are some ideas to get you started:**
+## Tutorials
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+01. [Setting up the development environment](https://github.com/home-assistant-tutorials/01.development-environment)
+
+## Home Assistant
+
+* [Home Assistant Home](https://www.home-assistant.io)
+* [Home Assistant on Github](https://github.com/home-assistant)
+* [Home Assistant Community](https://community.home-assistant.io)
+* [Home Assistant on Discord](https://discord.com/channels/330944238910963714/332167321311510530)
