@@ -18,6 +18,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 ## Tutorials
 
 01. [Setting up the development environment](https://github.com/home-assistant-tutorials/01.development-environment)
+01. [Hello world card manually](https://github.com/home-assistant-tutorials/02.hello-world-card)
 
 ## Home Assistant
 
