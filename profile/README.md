@@ -17,9 +17,36 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 
 ## Tutorials
 
+### Table of content
+
 01. [Setting up the development environment](https://github.com/home-assistant-tutorials/01.development-environment)
 01. [Hello world card](https://github.com/home-assistant-tutorials/02.hello-world-card)
 01. [Hello world card plus](https://github.com/home-assistant-tutorials/03.hello-world-card-plus)
+01. [Plain vanilla javascript toggle card](https://github.com/home-assistant-tutorials/04.toggle-card-vanilla-js)
+
+### The focuses of each tutorial
+
+#### [01. Setting up the development environment](https://github.com/home-assistant-tutorials/01.development-environment)
+
+* how to use the container of the core developers
+
+#### [02. Hello world card](https://github.com/home-assistant-tutorials/02.hello-world-card)
+
+* how to get some hello world output from a card 
+
+#### [03. Hello world card plus](https://github.com/home-assistant-tutorials/03.hello-world-card-plus)
+
+* how to assist the setup with error messages
+* how to provide a default configuration for the card
+* how to add the card to the visual selection
+
+#### [04. Plain Vanilla JavaScript Toggle Card](https://github.com/home-assistant-tutorials/04.toggle-card-vanilla-js)
+
+* how to do a card with plain vanilla javascript
+* how to organize the class
+* how to encapsulate CSS by use of a prefix (BEM inspired)
+* how to read and write from/to the hass object (full roundtrip)
+* how to bind the card to the event callback
 
 ## Home Assistant
 
