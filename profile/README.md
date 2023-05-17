@@ -23,6 +23,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 01. [Hello world card](https://github.com/home-assistant-tutorials/02.hello-world-card)
 01. [Hello world card plus](https://github.com/home-assistant-tutorials/03.hello-world-card-plus)
 01. [Plain vanilla javascript toggle card](https://github.com/home-assistant-tutorials/04.toggle-card-vanilla-js)
+01. [Toggle card with shadow DOM](https://github.com/home-assistant-tutorials/05.toggle-card-with-shadow-dom)
 
 ### The focuses of each tutorial
 
@@ -32,7 +33,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 
 #### [02. Hello world card](https://github.com/home-assistant-tutorials/02.hello-world-card)
 
-* how to get some hello world output from a card 
+* how to get some hello world output from a card
 
 #### [03. Hello world card plus](https://github.com/home-assistant-tutorials/03.hello-world-card-plus)
 
@@ -47,6 +48,11 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 * how to encapsulate CSS by use of a prefix (BEM inspired)
 * how to read and write from/to the hass object (full roundtrip)
 * how to bind the card to the event callback
+
+#### [05. Toggle card with shadow DOM](https://github.com/home-assistant-tutorials/05.toggle-card-with-shadow-dom)
+
+* how to get rid of the prefixes by using a shadow dom
+* how to reduce BEM to EM methodology
 
 ## Home Assistant
 
