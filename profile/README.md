@@ -43,7 +43,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 
 #### [04. Plain Vanilla JavaScript Toggle Card](https://github.com/home-assistant-tutorials/04.toggle-card-vanilla-js)
 
-* how to do a card with plain vanilla javascript
+* how to do an interactive toggle card with plain vanilla javascript
 * how to organize the class
 * how to encapsulate CSS by use of a prefix (BEM inspired)
 * how to read and write from/to the hass object (full roundtrip)
@@ -54,7 +54,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 * how to attach a shadow dom inside the constructor
 * how to clean up the lifecycle
 * how to get rid of the prefixes
-* how to migrate BEM methodology with nested CSS modifiers
+* how to migrate from BEM methodology to nested CSS modifiers
 
 ## Home Assistant
 
