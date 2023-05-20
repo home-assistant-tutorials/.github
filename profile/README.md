@@ -51,8 +51,10 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 
 #### [05. Toggle card with shadow DOM](https://github.com/home-assistant-tutorials/05.toggle-card-with-shadow-dom)
 
-* how to get rid of the prefixes by using a shadow dom
-* how to reduce BEM to EM methodology
+* how to attach a shadow dom inside the constructor
+* how to clean up the lifecycle
+* how to get rid of the prefixes
+* how to migrate BEM methodology with nested CSS modifiers
 
 ## Home Assistant
 
