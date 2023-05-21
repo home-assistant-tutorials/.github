@@ -34,6 +34,8 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 #### [02. Hello world card](https://github.com/home-assistant-tutorials/02.hello-world-card)
 
 * how to get some hello world output from a card
+* how to define the card as a custom Element of HTML
+* how to add the card as a new resource
 
 #### [03. Hello world card plus](https://github.com/home-assistant-tutorials/03.hello-world-card-plus)
 
@@ -44,6 +46,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 #### [04. Plain Vanilla JavaScript Toggle Card](https://github.com/home-assistant-tutorials/04.toggle-card-vanilla-js)
 
 * how to do an interactive toggle card with plain vanilla javascript
+* how to create the toggle helper entity
 * how to organize the class
 * how to encapsulate CSS by use of a prefix (BEM inspired)
 * how to read and write from/to the hass object (full roundtrip)
