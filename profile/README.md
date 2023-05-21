@@ -56,6 +56,13 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 * how to get rid of the prefixes
 * how to migrate from BEM methodology to nested CSS modifiers
 
+#### [06. Toggle With Graphical Card Configuration (Vanilla JS)](https://github.com/home-assistant-tutorials/06.toggle-with-graphical-configuration)
+
+* how to create and organize the class of the editor
+* how to register the editor
+* about the lifecycle of the editor
+* how to implement minimal requirements
+
 ## Home Assistant
 
 This organization provides community created content. It is related to the Home
