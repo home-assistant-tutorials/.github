@@ -43,7 +43,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 * how to provide a default configuration for the card
 * how to add the card to the visual selection
 
-#### [04. Plain Vanilla JavaScript Toggle Card](https://github.com/home-assistant-tutorials/04.toggle-card-vanilla-js)
+#### [04. Plain vanilla javasript toggle card](https://github.com/home-assistant-tutorials/04.toggle-card-vanilla-js)
 
 * how to do an interactive toggle card with plain vanilla javascript
 * how to create the toggle helper entity
@@ -59,12 +59,17 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 * how to get rid of the prefixes
 * how to migrate from BEM methodology to nested CSS modifiers
 
-#### [06. Toggle With Graphical Card Configuration (Vanilla JS)](https://github.com/home-assistant-tutorials/06.toggle-with-graphical-configuration)
+#### [06. Toggle with graphical card configuration (vanilla js)](https://github.com/home-assistant-tutorials/06.toggle-with-graphical-configuration)
 
 * how to create and organize the class of the editor
 * how to register the editor
 * about the lifecycle of the editor
 * how to implement minimal requirements
+
+#### [07. Toggle card to hacs](https://github.com/home-assistant-tutorials/07.toggle-card-to-hacs)
+
+* how to layout the Github repository for a custom HACS card
+* how to use the HACS repository
 
 ## Home Assistant
 
