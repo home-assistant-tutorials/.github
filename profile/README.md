@@ -19,14 +19,6 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 
 ### Table of content
 
-01. [Setting up the development environment](https://github.com/home-assistant-tutorials/01.development-environment)
-01. [Hello world card](https://github.com/home-assistant-tutorials/02.hello-world-card)
-01. [Hello world card plus](https://github.com/home-assistant-tutorials/03.hello-world-card-plus)
-01. [Plain vanilla javascript toggle card](https://github.com/home-assistant-tutorials/04.toggle-card-vanilla-js)
-01. [Toggle card with shadow DOM](https://github.com/home-assistant-tutorials/05.toggle-card-with-shadow-dom)
-
-### The focuses of each tutorial
-
 #### [01. Setting up the development environment](https://github.com/home-assistant-tutorials/01.development-environment)
 
 * how to use the container of the core developers
@@ -68,6 +60,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 
 #### [07. Toggle card to hacs](https://github.com/home-assistant-tutorials/07.toggle-card-to-hacs)
 
+* how to install HACS
 * how to layout the Github repository for a custom HACS card
 * how to use the HACS repository
 
