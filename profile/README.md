@@ -17,7 +17,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 
 ## Tutorials
 
-### Table of content
+### Table of contents
 
 #### [01. Setting up the development environment](https://github.com/home-assistant-tutorials/01.development-environment)
 
