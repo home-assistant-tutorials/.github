@@ -64,6 +64,15 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 * how to layout the Github repository for a custom HACS card
 * how to use the HACS repository
 
+#### [08. Toggle card with a toolchain](https://github.com/home-assistant-tutorials/08.toggle-card-with-toolchain)
+
+* how to install nodejs and npm into the development container
+* how to update them to recent versions
+* how to use npm (the basics)
+* how to install *Parcel*
+* how to setup and organize the projects layout
+* how to inline *HTML* and *CSS* files
+
 ## Home Assistant
 
 This organization provides community created content. It is related to the Home
