@@ -58,7 +58,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 * about the lifecycle of the editor
 * how to implement minimal requirements
 
-#### [07. Toggle card to hacs](https://github.com/home-assistant-tutorials/07.toggle-card-to-hacs)
+#### [07. Toggle card to HACS](https://github.com/home-assistant-tutorials/07.toggle-card-to-hacs)
 
 * how to install HACS
 * how to layout the Github repository for a custom HACS card
