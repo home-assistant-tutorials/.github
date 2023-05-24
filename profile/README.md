@@ -35,7 +35,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 * how to provide a default configuration for the card
 * how to add the card to the visual selection
 
-#### [04. Plain vanilla javasript toggle card](https://github.com/home-assistant-tutorials/04.toggle-card-vanilla-js)
+#### [04. Plain vanilla javascript toggle card](https://github.com/home-assistant-tutorials/04.toggle-card-vanilla-js)
 
 * how to do an interactive toggle card with plain vanilla javascript
 * how to create the toggle helper entity
