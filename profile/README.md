@@ -73,7 +73,7 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 * how to setup and organize the projects layout
 * how to inline *HTML* and *CSS* files
 
-### [09. Toggle card with Lit](https://github.com/home-assistant-tutorials/09.toggle-card-lit)
+#### [09. Toggle card with Lit](https://github.com/home-assistant-tutorials/09.toggle-card-lit)
 
 * what Lit is
 * how to install Lit with NPM
