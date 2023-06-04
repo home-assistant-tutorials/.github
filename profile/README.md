@@ -82,6 +82,16 @@ path `config/www/tutor`. A `hello-moon` repository would get the path
 * how to use it for the toggle card
 * how to keep the footprint small
 
+#### [10. Toggle card with TypeScript](https://github.com/home-assistant-tutorials/10.toggle-card-typescript)
+
+
+* how to install the required tools for *TypeScript*
+* how to set up the configuration files
+* how to migrate the code to TypoScript
+* how to enrich the code with typing
+* how to import some interfaces for custom card development
+
+
 ## Home Assistant
 
 This organization provides community created content. It is related to the Home
